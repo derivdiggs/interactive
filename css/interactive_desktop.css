@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header {
+	height:85px;
+}
+
+header h1 {
+	font-size: 2em;
+	top:-10px;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+.underhead {
+	top:40px;
+}
+
+nav ul li,
+    nav ul li a {
+		padding-left:1em;
+		padding-right:1em;
+}
+
+#holder {
+	top:135px;
+}

@@ -1,0 +1,132 @@
+
+function isBlank(val){
+	if(val==null){return true;}
+	for(var i=0;i<val.length;i++) {
+		if ((val.charAt(i)!=' ')&&(val.charAt(i)!="\t")&&(val.charAt(i)!="\n")&&(val.charAt(i)!="\r")){return false;}
+		}
+	return true;
+	}
+function setNullIfBlank(obj){if(isBlank(obj.value)){obj.value="";}}
+
+
+function valCharNumb(strValue) 
+    {
+		var blnValid=true;
+		var strChars= "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789'-";
+		var strCheck;
+		var i, j, ch;
+			if (strValue.length==0) {
+				blnValid=false
+			}
+			strCheck = strValue
+			for (i = 0;  i < strCheck.length;  i++)
+			{
+			    ch = strCheck.charAt(i);
+			    for (j = 0;  j < strChars.length;  j++)
+					if (ch == strChars.charAt(j))
+					{	break
+					}
+					if (j == strChars.length)
+					{
+						blnValid = false;
+						break
+					}
+			}
+		  return blnValid
+    }
+
+function Validate(theForm){
+
+if (theForm.FirstName.value == ""){
+	alert("Please enter your First Name");
+	theForm.FirstName.focus();
+	return (false);
+	}
+   
+
+if (!valCharNumb(theForm.FirstName.value)){
+alert("First Name: Please enter valid Characters.");
+theForm.FirstName.focus();
+	return (false);
+	}
+  
+
+
+if (theForm.LastName.value == ""){
+	alert("Please enter your Last Name");
+	//theForm.LastName.className = "txtval";
+	theForm.LastName.focus();
+	return (false);
+	}
+	
+
+if (!valCharNumb(theForm.LastName.value)){
+alert("Last Name: Please enter valid Characters.");
+theForm.LastName.focus();
+	return (false);
+	}
+  
+
+
+// BEGIN: email validation
+
+var emailfilter=/^\w+[\+\.\w-]*@([\w-]+\.)*\w+[\w-]*\.([a-z]{2,4}|\d+)$/i
+
+function checkmail(e){
+var returnval=emailfilter.test(e)
+if (returnval==false){
+}
+return returnval
+}
+
+if (!checkmail(theForm.EMail.value))
+{
+alert("Please Enter Valid Email Address \n i.e \"anyuser@yourdomain.com\" "); 
+theForm.EMail.focus();
+return (false);
+}
+ 
+  
+  // END: email validation
+
+  function PhoneNumber(strValue)  
+    {
+		var blnValid=true;
+		var strChars= "0123456789-+(). ";
+		var strCheck;
+		var i, j, ch;
+			if (strValue.length==0) {
+				blnValid=false
+			}
+			strCheck = strValue
+			for (i = 0;  i < strCheck.length;  i++)
+			{
+			    ch = strCheck.charAt(i);
+			    for (j = 0;  j < strChars.length;  j++)
+					if (ch == strChars.charAt(j))
+					{	break
+					}
+					if (j == strChars.length)
+					{
+						blnValid = false;
+						break
+					}
+			}
+		  return blnValid
+    }
+
+
+	if (!PhoneNumber(theForm.Phone.value)){   
+    alert("Please enter Valid Phone Number");
+    theForm.Phone.focus();
+    theForm.Phone.value = "" 
+    return (false);
+  }
+ 
+    if (theForm.HomeCountry.value == "0")	{
+	alert("Please select a Country");
+	theForm.HomeCountry.focus();
+	return (false);
+	}
+ }
+//-->

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+@viewport {
+	width:device-width;
+}
+
+body {
+	background:black url(../images/home_bk.jpg) center center no-repeat;
+}
+
+header {
+	height:75px;
+}
+
+header h1 {
+	font-size: 1.5em;
+	top:0px;
+}
+
+.underhead {
+	top:30px;
+}
+
+nav {
+	position:relative;
+	padding-top:.2em;
+	padding-bottom:.5em;
+	height: 1.6em;
+	width: 90%;
+	max-width:800px;
+	left:0;
+	right:0;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+	-webkit-transform: translateX(0);
+}
+
+nav ul li {
+	padding:0em;
+	margin-top:-.2em;
+}
+
+ nav ul li a {
+	/**/
+}
+
+nav ul li,
+    nav ul li a {
+        display: inline-block;
+		/*height:1em;*/
+		border-top:none;
+		padding-left:.4em;
+		padding-right:.4em;
+}
+
+.selectednav {
+	background-color:#333;
+	border-style:solid;
+	border-width:thin;
+	border-bottom:none;
+	border-top:none;
+	border-color:#FC0;
+}
+
+.toggle-nav {
+	display:none;
+}
+
+#holder {
+	top:125px;
+	font-size:1.2em;
+}

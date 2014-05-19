@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Presentation>
+	<Global>
+		<TransitionTime>.7</TransitionTime>
+		<Title>Water Efficiency with Style</Title>
+		<Title>Green: Market Realities</Title>
+		<Title>Test Your Water Saving Savvy</Title>
+		<Title>Saving Water at Home</Title>
+		<Title>Saving Water in the Community</Title>
+		<Title>Why Conserve Water?</Title>
+		<Title>Why Conserve Water?</Title>
+		<Title>Why Conserve Water?</Title>
+		<Title>Understanding Water Efficiency Programs</Title>
+		<Title>LEED®</Title>
+		<Title>WaterSense®</Title>
+		<Title>GreenPlumbers® </Title>
+		<Title>The Alliance for Water Efficiency</Title>
+	</Global>
+	<Slide>
+		<OffSetTime>0.5</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.25</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>.75</TransTime>
+		<TransTime>1</TransTime>
+		<TransTime>1.25</TransTime>
+		<SNum>1</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0.5</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.25</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>.75</TransTime>
+		<TransTime>1</TransTime>
+		<TransTime>1.25</TransTime>
+		<TransTime>1.50</TransTime>
+		<SNum>2</SNum>
+	</Slide>
+	<Slide>
+		<Quiz>null</Quiz>
+		<Quiz>null</Quiz>
+		<Quiz>null</Quiz>
+		<SNum>3</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>7.7</TransTime>
+		<TransTime>8.2</TransTime>
+		<TransTime>19</TransTime>
+		<TransTime>19.5</TransTime>
+		<TransTime>28.6</TransTime>
+		<TransTime>29.1</TransTime>
+		<SNum>4</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>11.3</TransTime>
+		<TransTime>11.8</TransTime>
+		<TransTime>19.3</TransTime>
+		<TransTime>19.8</TransTime>
+		<TransTime>34.5</TransTime>
+		<TransTime>35</TransTime>
+		<SNum>5</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>1</TransTime>
+		<TransTime>15.4</TransTime>
+		<TransTime>15.9</TransTime>
+		<TransTime>28.1</TransTime>
+		<TransTime>36.25</TransTime>
+		<SNum>6</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>1</TransTime>
+		<TransTime>1.5</TransTime>
+		<TransTime>17.35</TransTime>
+		<TransTime>25.85</TransTime>
+		<TransTime>42.4</TransTime>
+		<SNum>7</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>1</TransTime>
+		<TransTime>1.5</TransTime>
+		<TransTime>13.57</TransTime>
+		<TransTime>20.02</TransTime>
+		<SNum>8</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>1</TransTime>
+		<TransTime>1.5</TransTime>
+		<TransTime>20.81</TransTime>
+		<TransTime>21.31</TransTime>
+		<TransTime>26.6</TransTime>
+		<TransTime>31.8</TransTime>
+		<SNum>9</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>1</TransTime>
+		<TransTime>10.4</TransTime>
+		<TransTime>32.65</TransTime>
+		<SNum>10</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>8.1</TransTime>
+		<TransTime>24.85</TransTime>
+		<TransTime>34.72</TransTime>
+		<TransTime>42.1</TransTime>
+		<SNum>11</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>18.85</TransTime>
+		<TransTime>27.8</TransTime>
+		<TransTime>31.6</TransTime>
+		<TransTime>32.9</TransTime>
+		<TransTime>34.59</TransTime>
+		<TransTime>36.28</TransTime>
+		<TransTime>38.30</TransTime>
+		<TransTime>38.8</TransTime>
+		<TransTime>40.43</TransTime>
+		<TransTime>46.3</TransTime>
+		<SNum>12</SNum>
+	</Slide>
+	<Slide>
+		<OffSetTime>0</OffSetTime>
+		<TransTime>0</TransTime>
+		<TransTime>.5</TransTime>
+		<TransTime>23.84 </TransTime>
+		<TransTime>24.34</TransTime>
+		<TransTime>35.54</TransTime>
+		<TransTime>null</TransTime>
+		<TransTime>null</TransTime>
+		<TransTime>null</TransTime>
+		<TransTime>null</TransTime>
+		<SNum>13</SNum>
+	</Slide>
+		
+</Presentation>

@@ -1,0 +1,5036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Chart>
+<!-- PERSONAL CARE START -->
+	<Item>
+		<Name>Bausch &amp; Lomb Incorporated</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>	
+	<Item>
+		<Name>Interplak</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Unilever Group</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Faberge, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Astor/Lancaster Group</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Jon A. Benckiser GmbH</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Juvena (International) AG</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Beiersdorf AG</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Beiersdorf AG</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>La Prairie Cosmetics</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Coty</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Joh. A Benckiser GmbH</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Curel &amp; Soft Sense Skin Care Brands</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Bausch &amp; Lomb Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>J.W. Childs Associates, L.P.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Personal Products Division</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Playtex Products Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Personal Care Group Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Tyco International Ltd.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Confab</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Curel and Soft Sense Brands</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>The Andrew Jergens Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Spinnaker Industries, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>	
+	<Item>
+		<Name>Tesa Tapes, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Amplifon Group</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Viennatone</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>J.W. Childs Equity Partners II LP</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>American Safety Razor Co.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>L'Oreal S.A.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Carson, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Graham Webb International</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Wella A.G.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Combe Incorporated</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>J.B. Williams Company</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>GTCR Golder Rauner, LLC</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Meditech Holdings, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Prestige Brand Holdings, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Little Remedies</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Allied Capital</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Pharmacueticals Holdings, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Dental Concepts, LLC</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Prestige Brands Holdings, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Prestige Brands Holdings, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Wartner</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Braun GmbH</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>KAZ, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>GlaxoSmithKline plc</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>CNS, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Hawaiian Tropic</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Playtex Products, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Medline Industries, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Curad</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Bissel, Inc</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Birds Eye Foods</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Church &amp; Dwight Co., Inc</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Combe Incorporated</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>true</Col2>
+		<Col3>true</Col3>
+		<Col4>true</Col4>
+		<Col5>true</Col5>
+		<Col6>true</Col6>
+		<Col7>true</Col7>
+		<Col8>true</Col8>
+		<Col9>true</Col9>
+		<Col10>true</Col10>
+		<Col11>true</Col11>
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Cott Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Denorex Company</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>McCarthy Group, Inc</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Prestige Brands, Inc</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>The Shansby Group</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Advantage Sales &amp; Marketing, Inc</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Bissel, Inc</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Birds Eye Foods</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Church &amp; Dwight Co., Inc</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Combe Incorporated</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>true</Col2>
+		<Col3>true</Col3>
+		<Col4>true</Col4>
+		<Col5>true</Col5>
+		<Col6>true</Col6>
+		<Col7>true</Col7>
+		<Col8>true</Col8>
+		<Col9>true</Col9>
+		<Col10>true</Col10>
+		<Col11>true</Col11>
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Cott Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Denorex Company</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>McCarthy Group, Inc</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Prestige Brands, Inc</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>true</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>The Shansby Group</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<!-- PERSONAL CARE END -->
+<!-- HOUSEHOLD PRODUCTS START -->
+	<Item>
+		<Name>DLJ Merchant Banking Patners, L.P.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>McCulloch Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>U.S. Industries, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Keller Industries, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Clorox Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Armor All Products Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Allied-Signal, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Prestone Products Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Glass Plus and SPRAY 'n WASH Brands</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Reckitt &amp; Colman</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>200 Flushes</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Global Household Brands</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Dial/Henkel, LLC</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Custom Cleaner Brand</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Church &amp; Dwight Co., Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Clean Shower Brand</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Church &amp; Dwight Co., Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>USA Detergents, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>W.M. Barr &amp; Company, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Damp Rid</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Medtech Holdings, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Spic &amp; Span Company</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Woolite Rug &amp; Upholstery Cleaner</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Bissell, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Centre Partners Management LLC</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Quickie Manufacturing Corp.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Church &amp; Dwight Co., Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Orange Glo International, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>true</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+<!-- HOUSEHOLD PRODUCTS END -->
+<!-- FOOD BEVERAGES START -->
+	<Item>
+		<Name>Service America Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>GE Capital Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Crush International, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Cadbury Schweppes plc</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Thomas J. Lipton Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Isaly Klondike Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Casera Foods, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Goya De Puerto Rico, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Quaker Oats Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Snapple Beverage Corp.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Management Buyout to Bakery Acquisition, L.L.C.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Best Brands, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Hero Drinks Group U.K. Ltd.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Cott UK Limited</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>American Bottling Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Select Beverages, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Cott Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Thomas H. Lee Partners, L.P.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>First Atlantic Capital, Ltd.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Otis Spunkmeyer, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>PepsiCo, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>South Beach Beverage Co. (SOBE)</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Willis Stein</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Lincoln Snacks Portfolio</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Allen Canning Company</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Bird's Eye Freshlike Brand</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>PepsiCo, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Punica Getranke GmbH</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Macaw Holdings Limited</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>	
+	<Item>
+		<Name>Cott Beverages Ltd.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>J.W. Childs / Merrill Lynch Private Equity</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Advantage Sales &amp; Marketing</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>true</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+<!-- FOOD BEVERAGES END -->
+<!-- HOUSEWARE START -->
+	<Item>
+		<Name>Bausch &amp; Lomb Incorporated</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Interplak</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Centre Partners Management LLC</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Quickie Manufacturing Corp.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Honeywell's Consumer Products</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>KAZ, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Homedics, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Homedics, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Lehman Brothers Merchant Banking</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Hunter Fan</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Salter Housewares Ltd.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Homedics, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Lifetime Brands, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Pfaltzgraff Co.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>KAZ, Inc.</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Slant's Fin Consumer Products Division</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Braun GmbH</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>KAZ, Inc.</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>true</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The McCarthy Group</Name>
+		<Type>regular</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Vornado Air Circulation Company</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>false</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>true</Col4>
+		<Col5>false</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<!-- HOUSEWARE END -->
+<!-- RETAIL, DISTRIBUTION & SERVICES START -->
+	<Item>
+		<Name>Casual Male Retail Group, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Ecko Unlimited</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Plymouth Lamston, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Tribeca Holdings</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Service America Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>GE Capital Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Salant Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Perry Ellis</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>World Yacht Ltd.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Circle Line Sightseeing Yachts Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Innovation Luggage Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>GE Capital Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Harris Wholesale Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>FoxMeyer Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Recapitalization Plan</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>The Horn &amp; Hardart Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>McKesson Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>FoxMeyer Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>R.A.B. Holdings, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>McKesson Corporation/Millbrook Distribution Services</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>G&amp;K Services, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Uniform Rental Division</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>RFM Acquisition LLC</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Randall's Food Markets, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Chase Capital Partners</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>La Petite Academy, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Jan Bell Marketing, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Major's Jewelers, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>CT Holding, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Quality Stores, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>J.W. Childs/ Merrill Lynch Private Equity</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Advantage Sales &amp; Marketing</Name>
+		<Type>bold</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>true</Col5>
+		<Col6>false</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+<!-- RETAIL, DISTRIBUTION & SERVICES END -->
+<!-- OTHER START -->
+	<Item>
+		<Name>National Car Rental System, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>PaineWebber Capital, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>CFR Leasing Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Lend Lease Cars, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>true</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Salant Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Perry Ellis</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>National Intergroup, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Centaur Partners IV</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>true</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>General Binding Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>VeloBind, Incorporated</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>UAL Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Air Wis Services, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>false</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>The Tom James Company</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Oxxford Clothes Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>The Jordan Company, LLC</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Tee Jays Manufacturing Company, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>true</Col12>
+		<Col13>false</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>C.R. Gibson Co.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Thomas Nelson, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>false</Col7>
+		<Col8>false</Col8>
+		<Col9>true</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>true</Col14>
+	</Item>
+	<Item>
+		<Name>Advent International Corporation</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<Item>
+		<Name>Managed Healthcare Associates, Inc.</Name>
+		<Type>italic</Type>
+		<Paper>false</Paper>
+		<Url1>null</Url1>
+		<News>false</News>
+		<Url2>null</Url2>
+		<!-- Consumer Segments -->
+		<Col1>fales</Col1>
+		<Col2>false</Col2>
+		<Col3>false</Col3>
+		<Col4>false</Col4>
+		<Col5>false</Col5>
+		<Col6>true</Col6>
+		<!-- Services Provided -->
+		<Col7>true</Col7>
+		<Col8>false</Col8>
+		<Col9>false</Col9>
+		<Col10>false</Col10>
+		<Col11>false</Col11>
+		<!-- Business Profile -->
+		<Col12>false</Col12>
+		<Col13>true</Col13>
+		<Col14>false</Col14>
+	</Item>
+	<!-- OTHER END -->
+</Chart>

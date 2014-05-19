@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<News >
+	<Item>
+		<Copy>Susquehanna Pfaltzgraff agrees to sell The Pfaltzgraff Co. </Copy>
+		<Image>news1.png</Image>
+		<Url>http://www.something.com/something</Url>
+		
+	</Item>
+	<Item>
+		<Copy>Pepsi, Co. agrees to buy Punica, a leading german juice maker. </Copy>
+		<Image>news2.png</Image>
+		<Url> http://www.something.com/something</Url>
+		
+	</Item>
+	<Item>
+		<Copy>Quickie Manufacturing Corp receives growth investment. </Copy>
+		<Image>news3.png</Image>
+		<Url>http://www.something.com/something</Url>
+		
+	</Item>
+</News>
