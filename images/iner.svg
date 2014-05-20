@@ -1,31 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Thought Render is a multi-media company and record label. Created by Deriv Diggs." />
-    <meta name="robots" content="index,follow" />
-    <title>Thought Render Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <LINK REL="SHORTCUT ICON" HREF="http://www.thoughtrender.com/images/tr.ico" />
-    <!-- default for mobile devices -->
-    <link rel='stylesheet' href='css/interactive_mobile.css' />
-    <!--link rel='stylesheet' href='css/temp.css' /-->
-    <!-- for tablets -->
-    <link rel='stylesheet' href='css/interactive_tablet.css' media="(min-width: 481px)"/>
-    <!-- for PCs -->
-    <link rel='stylesheet' href='css/interactive_desktop.css' media="(min-width: 801px)"/>
-</head>
-
-<body>
-	<div class='headholder'>
-    	<header>
-        	<h1>Thought Render</h1>
-            
-            <div class="underhead">
-            	<div id='myobj'>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 
-	 viewBox="0 0 163.215 13.44" enable-background="new 0 0 163.215 13.44" xml:space="preserve">
+	 width="163.215px" height="13.44px" viewBox="0 0 163.215 13.44" enable-background="new 0 0 163.215 13.44" xml:space="preserve">
 
 <g>
 
@@ -398,78 +376,47 @@
 		c0.028,0.168,0.091,0.34,0.189,0.515c0.098,0.175,0.238,0.329,0.42,0.462c0.182,0.133,0.441,0.2,0.777,0.2h5.46
 
 		c0.448,0,0.777-0.049,0.987-0.147s0.378-0.203,0.504-0.315c0.126-0.112,0.259-0.217,0.399-0.315
+
 		c0.14-0.098,0.364-0.147,0.672-0.147c0.056,0,0.14,0.007,0.252,0.021c0.112,0.014,0.228,0.039,0.347,0.074
+
 		c0.119,0.035,0.22,0.077,0.304,0.126C148.851,11.883,148.893,11.949,148.893,12.033z"/>
 
 	<path stroke="#ffffff" id="i10" d="M163.215,12.012c0,0.028-0.007,0.049-0.021,0.063c-0.014,0.014-0.028,0.035-0.042,0.063
+
 		c-0.224,0.294-0.483,0.528-0.777,0.703c-0.294,0.175-0.606,0.305-0.935,0.389c-0.329,0.084-0.672,0.136-1.029,0.157
+
 		c-0.357,0.021-0.703,0.032-1.039,0.032h-8.715c-0.434,0-0.882-0.024-1.344-0.074c-0.462-0.049-0.882-0.157-1.26-0.325
+
 		s-0.689-0.413-0.935-0.735c-0.245-0.322-0.367-0.756-0.367-1.302c0-0.448,0.08-0.91,0.241-1.386s0.375-0.896,0.641-1.26
+
 		c0.28-0.378,0.605-0.689,0.977-0.935c0.371-0.245,0.763-0.434,1.176-0.567c0.413-0.133,0.843-0.228,1.292-0.284
+
 		c0.448-0.056,0.896-0.084,1.344-0.084c0.336,0,0.735,0.004,1.197,0.011c0.462,0.007,0.903,0.063,1.323,0.168
+
 		s0.777,0.284,1.071,0.536s0.441,0.623,0.441,1.113c0,0.21-0.052,0.392-0.157,0.546c-0.105,0.154-0.238,0.287-0.399,0.399
+
 		c-0.161,0.112-0.34,0.21-0.536,0.294c-0.196,0.084-0.385,0.161-0.567,0.231c-0.98,0.378-1.967,0.738-2.961,1.082
+
 		c-0.994,0.343-1.995,0.675-3.003,0.997c0.084,0.168,0.21,0.298,0.378,0.389c0.168,0.091,0.35,0.161,0.546,0.21
+
 		c0.196,0.049,0.396,0.077,0.599,0.084c0.203,0.007,0.388,0.011,0.556,0.011h8.505c0.392,0,0.731-0.028,1.018-0.084
+
 		s0.57-0.238,0.851-0.546c0.112-0.112,0.245-0.189,0.399-0.231c0.154-0.042,0.308-0.063,0.462-0.063
+
 		c0.056,0,0.143,0.007,0.262,0.021c0.119,0.014,0.238,0.035,0.357,0.063c0.119,0.028,0.224,0.067,0.315,0.116
+
 		C163.17,11.862,163.215,11.928,163.215,12.012z M154.521,8.31c0-0.362-0.147-0.612-0.441-0.751
+
 		c-0.294-0.139-0.777-0.208-1.449-0.208c-0.35,0-0.69,0.024-1.019,0.073c-0.329,0.048-0.641,0.135-0.935,0.261
+
 		c-0.294,0.125-0.56,0.292-0.798,0.501c-0.238,0.208-0.441,0.48-0.609,0.813c-0.14,0.265-0.259,0.557-0.357,0.877
+
 		c-0.098,0.32-0.161,0.626-0.189,0.918c0.196-0.069,0.511-0.174,0.945-0.313c0.434-0.139,0.903-0.296,1.407-0.47
+
 		c0.504-0.174,1.012-0.351,1.522-0.532c0.511-0.181,0.935-0.341,1.271-0.48c0.168-0.069,0.318-0.17,0.452-0.302
+
 		C154.455,8.564,154.521,8.436,154.521,8.31z"/>
 
 </g>
 
 </svg>
-
-    </div>
-            </div>
-       		<a href="" class="toggle-nav"></a>
-    	</header>
-    	<nav id='bordered'>
-            <ul>
-                <li><a href="#overtop">Overview</a></li>
-                <li><a href="#portfoliotop">Portfolio</a></li>
-                <li><a href="#resumetop">Resume</a></li>
-                <li><a href="#contacttop">Contact</a></li>
-            </ul>
-        </nav>
-  	</div>
-    <div id='holder' class="overthrow">
-    	<section>
-  			<div class='overholder' id='overtop'>
-        		<h1>Overview</h1>
-                <div class='underholder'>
-            	<p>My name is Deriv Diggs and I'm the founder and chief engineer of Thought Render. I've been creating websites, RIA, kiosks, desktop applications, games, and mobile applications using Adobe AIR/Flash/Flex/Flash Builder/HTML5/CSS3/Javascript. Twelve years ago, before focusing on development, I was a senior designer at Grey Interactive (at the time the interactive division of Grey Advertising) in New York City. So, in addition to my skills as a programmer, I'm extremely proficient with the entire Adobe CS suite of programs especially Photoshop, Illustrator, and Dreamweaver. I won the Adobe Site of the Day award for April 11, 2009 for>  http://www.sawayasegalas.com/ and this page> http://www.sawayasegalas.com/about_sawaya_segalas/executive_bios.aspx.</p>
-<p>In addition to front end technologies, I have some experience programming php, Python, and mySQL, and have extensive experience building dynamic projects that get their content from a variety of backend technologies. Please find my resume, portfolio, and contact information by scrolling down or using the menu at the top.</p>
-            	</div>
-                
-        	</div><!--homeholder-->
-        </section>
-        <!--object data="images/iner.svg" id='myobj'/-->
-   <!--div id='myobj' width='100%' height='100%'>
-   		
-   </div-->
-    
-    
-    
-    <!-- SCRIPT -->
-	<script src="script/modernizrv2.7.1.js"></script>
-    <script src="script/overthrow.js"></script>
-    <script src="script/jquery.js"></script>
-    <script src="script/interactive.js"></script>
-    <!-- Google Analytics -->
-    <script>
-  		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  		ga('create', 'UA-50844547-1', 'thoughtrender.com');
-  		ga('send', 'pageview');
-
-	</script>
-</body>
-</html>

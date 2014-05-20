@@ -9,10 +9,12 @@ body {
 }
 
 header {
+	opacity:1;
 	height:75px;
 }
 
 header h1 {
+	opacity:1;
 	font-size: 1.5em;
 	top:0px;
 }

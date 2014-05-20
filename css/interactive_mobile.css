@@ -4,6 +4,17 @@
 	width:device-width;
 }
 
+#myobj {
+	position:absolute;
+	color:#fff;
+	top:25px;
+	width:35%;
+	left:0;
+	right:0;
+	margin-left: auto;
+    margin-right: auto;
+}
+
 html, body {
   	height: 100%;
   	width: 100%;
