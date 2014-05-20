@@ -88,6 +88,35 @@ h1 {
 	text-align:center;
 	color:#fff;
 }
+
+.portfolioholder div {
+	color:#fff;
+	text-align:left;
+	padding-left:30%;
+}
+
+.pdf {
+	position:relative;
+	width: 50%;
+	height: 300px;
+	margin: 2em auto;
+	border: 10px solid #6699FF;
+	left:0;
+	right:0;
+	margin-left: auto;
+    margin-right: auto;
+	
+}
+
+
+.pdf p {
+   padding: 1em;
+}
+
+.pdf object {
+   display: block;
+   border: solid 1px #666;
+}
 /*
 *** Navigation
 */
@@ -163,7 +192,8 @@ nav ul li a {
     transition: 1s ease-in-out;
 }
 
-.overholder {
+.overholder,
+.contactholder {
 	text-align:left;
 	margin-left:40px;
 	margin-right:40px;
