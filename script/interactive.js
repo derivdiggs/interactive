@@ -68,6 +68,36 @@ $(document).ready(function() {
 		
 	});
 	
+	var isShowingGfer = false;
+	
+	$('.toggfer').click(function(){
+		if(!isShowingGfer){
+			$('.gfer').css('display','block');
+			isShowingGfer = true;
+		}
+		else
+		{
+			$('.gfer').css('display','none');
+			isShowingGfer = false;
+		}
+		
+	});
+	
+	var isShowingAmstan = false;
+	
+	$('.togamstan').click(function(){
+		if(!isShowingAmstan){
+			$('.amstan').css('display','block');
+			isShowingAmstan = true;
+		}
+		else
+		{
+			$('.amstan').css('display','none');
+			isShowingAmstan = false;
+		}
+		
+	});
+	
 	/*
 	$('.togwork').toggle(
 		function(){$('.work').css('display','block');},
