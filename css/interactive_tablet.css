@@ -23,6 +23,12 @@ header h1 {
 	top:30px;
 }
 
+#myobj {
+	top:35px;
+	width:12em;
+	padding-left:1em;
+}
+
 nav {
 	position:relative;
 	padding-top:.2em;
