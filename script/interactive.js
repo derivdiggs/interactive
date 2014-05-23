@@ -26,27 +26,22 @@ $(document).ready(function() {
 	
 	var itemShowing;
 	$('.toggle').click(function(){
-		
-		
-		
-		console.log("last: " + itemShowing);
+	
 		var itemNum = $(this).data('item');
 		var portItem = "#item"+itemNum;
 		var $portSelector = $(portItem);
 		
 		if($portSelector.css('display')==='none'){
 			$portSelector.css('display','block');
-			
-			if(itemShowing != undefined){
+			if(itemShowing != portItem){
 				$(itemShowing).css('display','none');
 			}
-			itemShowing = portItem;
 		}
 		else
 		{
 			$portSelector.css('display','none');
 		}
-		
+		itemShowing = portItem;
 	})
 	
 	
