@@ -198,29 +198,29 @@ nav ul li a {
 	margin-right:40px;
 }
 
-
-
-.togwork,
-.togsplash,
-.togplav,
-.togads,
-.toggfer,
-.togamstan {
-	width:100px;
+.toggle {
+	width:90%;
 	height:30px;
+	left:0;
+	right:0;
+	margin-left: auto;
+    margin-right: auto;
 	border:solid;
 	border-width:thin;
 	border-color:#fff;
 	text-align:center;
 }
 
-.work,
-.plav,
-.splash,
-.ads,
-.gfer,
-.amstan {
+.portholder {
 	display:none;
+	width:90%;
+	left:0;
+	right:0;
+	margin-left: auto;
+    margin-right: auto;
+	border:solid;
+	border-width:thin;
+	border-color:#fff;
 	-webkit-transition: 1s ease-in-out;
     -moz-transition: 1s ease-in-out;
     -ms-transition: 1s ease-in-out;

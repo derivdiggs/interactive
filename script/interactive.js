@@ -8,107 +8,53 @@ $(document).ready(function() {
     	$('nav').toggleClass('active');
 	});
 	
-	var isShowingWork = false;
-	
-	$('.togwork').click(function(){
-		if(!isShowingWork){
-			$('.work').css('display','block');
-			isShowingWork = true;
-		}
-		else
-		{
-			$('.work').css('display','none');
-			isShowingWork = false;
-		}
-		
-	});
-	
-	var isShowingPlav = false;
-	
-	$('.togplav').click(function(){
-		if(!isShowingPlav){
-			$('.plav').css('display','block');
-			isShowingPlav = true;
-		}
-		else
-		{
-			$('.plav').css('display','none');
-			isShowingPlav = false;
-		}
-		
-	});
-	
-	var isShowingSplash = false;
-	
-	$('.togsplash').click(function(){
-		if(!isShowingSplash){
-			$('.splash').css('display','block');
-			isShowingSplash = true;
-		}
-		else
-		{
-			$('.splash').css('display','none');
-			isShowingSplash = false;
-		}
-		
-	});
-	
-	var isShowingAds = false;
-	
-	$('.togads').click(function(){
-		if(!isShowingAds){
-			$('.ads').css('display','block');
-			isShowingAds = true;
-		}
-		else
-		{
-			$('.ads').css('display','none');
-			isShowingAds = false;
-		}
-		
-	});
-	
-	var isShowingGfer = false;
-	
-	$('.toggfer').click(function(){
-		if(!isShowingGfer){
-			$('.gfer').css('display','block');
-			isShowingGfer = true;
-		}
-		else
-		{
-			$('.gfer').css('display','none');
-			isShowingGfer = false;
-		}
-		
-	});
-	
-	var isShowingAmstan = false;
-	
-	$('.togamstan').click(function(){
-		if(!isShowingAmstan){
-			$('.amstan').css('display','block');
-			isShowingAmstan = true;
-		}
-		else
-		{
-			$('.amstan').css('display','none');
-			isShowingAmstan = false;
-		}
-		
+	/*
+	*** handle refreshing Flash Movies
+	*/
+	var objectspanmakeinnerhtml = "";
+	$(".refresh").click(function(){
+		var mov = $(this).data('mov');
+		var movie = "movie"+mov;
+		objectspanmakeinnerhtml = document.getElementById(movie).innerHTML;
+		document.getElementById(movie).innerHTML = "";
+		document.getElementById(movie).innerHTML = objectspanmakeinnerhtml;
 	});
 	
 	/*
-	$('.togwork').toggle(
-		function(){$('.work').css('display','block');},
-		function(){$('.work').css('display','none')
-	});
+	*** Togal Portfolio Accordian
 	*/
 	
+	var itemShowing;
+	$('.toggle').click(function(){
+		
+		
+		
+		console.log("last: " + itemShowing);
+		var itemNum = $(this).data('item');
+		var portItem = "#item"+itemNum;
+		var $portSelector = $(portItem);
+		
+		if($portSelector.css('display')==='none'){
+			$portSelector.css('display','block');
+			
+			if(itemShowing != undefined){
+				$(itemShowing).css('display','none');
+			}
+			itemShowing = portItem;
+		}
+		else
+		{
+			$portSelector.css('display','none');
+		}
+		
+	})
 	
 	
 	
-	//
+	/*
+	*** Animate 'interactive' SVG in header
+	*/
+	
 	var current_frame, total_frames, path, length, handle, myobj;
 
 	myobj = document.getElementById('myobj').cloneNode(true);
@@ -146,24 +92,16 @@ $(document).ready(function() {
 	init();
 	
 	setInterval(init,5000);
-	
-	//
-	
 		
 	
 	setTimeout(function(){
 		$('header h1').css('opacity',1);
 		$('header').css('opacity',1);
-		
-		
-		
 	},1000);
 	
 	$( window ).resize(function() {
 		//fix for scale on android 2.3//
 		
 	});
-	
-	
 });
 

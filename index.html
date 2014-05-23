@@ -454,8 +454,8 @@
         
         	<div class='portfolioholder' id='porttop'>
             	<h1>Portfolio</h1>
-                <div class='togwork'>navs</div>
-                <div class="work" id="portholder">
+                <div class='toggle' data-item='1'>navs</div>
+                <div class="portholder" id="item1">
                 <!------>
                 <!------>
                 <!------>
@@ -623,9 +623,8 @@
                 <!------>
                 <!------>
                 <!------>
-               
-                <div class='togsplash'>splash</div>
-                <div class="splash" id="portholder">
+               	<div class='toggle' data-item='2'>splash</div>
+                <div class="portholder" id="item2">
                 <!------>
                 <!------>
                 <!------>
@@ -763,9 +762,8 @@
                 <!------>
                 <!------>
                 <!------>
-                
-                <div class='togads'>ads</div>
-                <div class="ads" id="portholder">
+                <div class='toggle' data-item='3'>ads</div>
+                <div class="portholder" id="item3">
                 <!------>
                 <!------>
                 <!------>
@@ -943,8 +941,8 @@
                 <!------>
                 <!------>
                 <!------>
-                <div class='toggfer'>Go Fur</div>
-                <div class="gfer" id="portholder">
+                <div class='toggle' data-item='4'>Go Fur</div>
+                <div class="portholder" id="item4">
                 <div class="desc">
                         <h1>Go Fur Health Game</h1>
                         <p>Go for health 2.5d game</p>
@@ -980,9 +978,8 @@
                 <!------>
                 <!------>
                 <!------>
-                
-                <div class='togplav'>plav</div>
-              <div class="plav" id="portholder">
+                <div class='toggle' data-item='5'>plav</div>
+                <div class="portholder" id="item5">
                   <object id="FlashID20" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1024" height="768">
                       <param name="movie" value="beyond_blockage.swf" />
                       <param name="quality" value="high" />
@@ -1011,56 +1008,69 @@
               <!------>
                 <!------>
                 <!------>
-              <div class='togamstan'>Am Stan</div>
-              <div class="amstan" id="portholder">
+              <div class='toggle' data-item='6'>American Standard</div>
+              <div class="portholder" id="item6">
                     <div class="desc">
                             <h1>American Standard Presentation</h1>
                             <p>Sales tool for American Standard</p>
                     </div>
-                 <object id="FlashID15" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="940" height="600">
-                      <param name="movie" value="americanstandard.swf" />
-                      <param name="quality" value="high" />
-                      <param name="wmode" value="opaque" />
-                      <param name="swfversion" value="9.0.45.0" />
-                      <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
-                      <param name="expressinstall" value="../Scripts/expressInstall.swf" />
-                      <param name="BGCOLOR" value="#006666" />
-                      <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
-                      <!--[if !IE]>-->
-                      <object type="application/x-shockwave-flash" data="americanstandard.swf" width="940" height="600">
-                        <!--<![endif]-->
-                        <param name="quality" value="high" />
-                        <param name="wmode" value="opaque" />
-                        <param name="swfversion" value="9.0.45.0" />
-                        <param name="expressinstall" value="../Scripts/expressInstall.swf" />
-                        <param name="BGCOLOR" value="#006666" />
-                        <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
-                        <div>
-                          <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
-                          <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
-                        </div>
-                        <!--[if !IE]>-->
-                      </object>
-                      <!--<![endif]-->
+                         <object id="FlashID15" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="940" height="600">
+                              <param name="movie" value="americanstandard.swf" />
+                              <param name="quality" value="high" />
+                              <param name="wmode" value="opaque" />
+                              <param name="swfversion" value="9.0.45.0" />
+                              <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+                              <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+                              <param name="BGCOLOR" value="#006666" />
+                              <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+                              <!--[if !IE]>-->
+                              <object type="application/x-shockwave-flash" data="americanstandard.swf" width="940" height="600">
+                                <!--<![endif]-->
+                                <param name="quality" value="high" />
+                                <param name="wmode" value="opaque" />
+                                <param name="swfversion" value="9.0.45.0" />
+                                <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+                                <param name="BGCOLOR" value="#006666" />
+                                <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+                                <div>
+                                  <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+                                  <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
+                                </div>
+                                <!--[if !IE]>-->
+                              </object>
+                              <!--<![endif]-->
+                        </object>
+                
+				
+           	  </div>
+                <!------>
+                <!------>
+                <!------>
+              <div class='toggle' data-item='7'>Eisai</div>
+              <div class="portholder" id="item7">
+                    <div class="desc">
+                            <h1>EISAI Touch Screen Kiosk</h1>
+                            <p>Sales tool for EISAI</p>
+                    </div>
+                <object id="FlashID16" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="720" height="600">
+                          <param name="movie" value="eisai.swf" />
+                          <param name="quality" value="high" />
+                          <param name="wmode" value="opaque" />
+                          <param name="swfversion" value="8.0.35.0" />
+                          <object type="application/x-shockwave-flash" data="eisai.swf" width="720" height="600">
+                            <!--<![endif]-->
+                            <param name="quality" value="high" />
+                            <param name="wmode" value="opaque" />
+                            <param name="swfversion" value="8.0.35.0" />
+                            <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+                            <div>
+                              <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+                              <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
+                            </div>
+                          </object>
                 </object>
               </div>
-                <!------>
-                <!------>
-                <!------>
-                <div>
-            
-                
-                   <ul> 
-                	<li><a href="work/navigation.html">Navigation Examples</a></li>
-                	<li><a href="work/splash.html">Splash Examples</a></li>
-                    <li><a href="work/ads.html">Banners and Ads</a></li>
-                    
-                    <li><a href="gfer/index.html">2.5D Game</a></li>
-                    <li><a href="as/index.html">American Standard Presentation</a></li>
-                    <li><a href="plavix/index.html">Plavix Kiosk</a></li>
-                    <li><a href="eisai/index.html">EISAI Touch Screen</a></li>
-                </ul>
-                </div>
+              
             </div>
         </section>
         <section>
@@ -1116,7 +1126,6 @@
 		swfobject.registerObject("FlashID5");
 		swfobject.registerObject("FlashID6");
 		swfobject.registerObject("FlashID7");
-		swfobject.registerObject("FlashID20");
 		swfobject.registerObject("FlashID");
 		swfobject.registerObject("FlashID9");
 		swfobject.registerObject("FlashID10");
@@ -1125,6 +1134,8 @@
 		swfobject.registerObject("FlashID13");
 		swfobject.registerObject("FlashID14");
 		swfobject.registerObject("FlashID15");
+		swfobject.registerObject("FlashID16");
+		swfobject.registerObject("FlashID20");
 		swfobject.registerObject("FlashID21");
 		swfobject.registerObject("FlashID22");
 		swfobject.registerObject("FlashID23");
@@ -1142,9 +1153,7 @@
 
   		ga('create', 'UA-50844547-1', 'thoughtrender.com');
   		ga('send', 'pageview');
-swfobject.registerObject("FlashID");
-swfobject.registerObject("FlashID14");
-swfobject.registerObject("FlashID15");
+
     </script>
 </body>
 </html>
