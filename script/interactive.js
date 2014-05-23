@@ -41,7 +41,7 @@ $(document).ready(function() {
 		{
 			$portSelector.css('display','none');
 		}
-		itemShowing = portItem;
+		itemShowing = portItem;		
 	})
 	
 	
