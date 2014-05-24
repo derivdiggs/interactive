@@ -224,12 +224,14 @@ nav ul li a {
 	right:0;
 	margin-left: auto;
     margin-right: auto;
-	border:solid;
-	border-width:thin;
-	border-color:#fff;
+	margin-bottom:4px;
+	
 	text-align:left;
 	padding-left:2em;
-	background-image: url('empty.gif');
+	background:url(../images/accordionbardrk.svg);
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
 	-webkit-transition: .5s ease-in-out;
     -moz-transition: .5s ease-in-out;
     -ms-transition: .5s ease-in-out;
@@ -239,19 +241,27 @@ nav ul li a {
 
 .toggle:hover {
 	color:#FC0;
+	
 	width:91%;
+	/*
+	border-color:#FFF;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	*/
+	background:url(../images/accordionbardrko.svg);
 }
 
 .portholder {
 	display:none;
-	width:90%;
+	width:93%;
 	left:0;
 	right:0;
 	margin-left: auto;
     margin-right: auto;
 	border:solid;
 	border-width:thin;
-	border-color:#fff;
+	border-color:#666;
 	-webkit-transition: 1s ease-in-out;
     -moz-transition: 1s ease-in-out;
     -ms-transition: 1s ease-in-out;

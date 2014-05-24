@@ -45,8 +45,6 @@ $(document).ready(function() {
 			
 	});
 	
-	
-	
 	/*
 	*** Animate 'interactive' SVG in header
 	*/

@@ -30,6 +30,7 @@ header h1 {
 }
 
 nav {
+	opacity:1;
 	position:relative;
 	padding-top:.2em;
 	padding-bottom:.5em;
