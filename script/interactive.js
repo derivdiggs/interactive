@@ -28,6 +28,11 @@ $(document).ready(function() {
 	$('.toggle').click(function(){
 	
 		var itemNum = $(this).data('item');
+		$('#arrow'+itemNum).css({
+			'background-position':'-20px',
+			'margin-left':'-5px',
+			'margin-top':'0px'});
+		
 		var portItem = "#item"+itemNum;
 		var $portSelector = $(portItem);
 		
@@ -35,14 +40,22 @@ $(document).ready(function() {
 			$portSelector.css('display','block');
 			if(itemShowing != portItem){
 				$(itemShowing).css('display','none');
+				$('#arrow'+lastItemNum).css({
+				'background-position':'0px',
+				'margin-left':'0px',
+				'margin-top':'0px'});
 			}
 		}
 		else
-		{
+		{	
+			$('#arrow'+itemNum).css({
+				'background-position':'0px',
+				'margin-left':'0px',
+				'margin-top':'0px'});
 			$portSelector.css('display','none');
 		}
 		itemShowing = portItem;
-			
+		lastItemNum = itemNum;
 	});
 	
 	/*
