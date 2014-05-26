@@ -14,6 +14,10 @@ h1 {
 	font-size: 1.5em;
 }
 
+h2 {
+	font-size:1.25em;
+}
+
 .underhead {
 	top:40px;
 }
@@ -31,5 +35,5 @@ nav ul li,
 }
 
 #holder {
-	top:138px;
+	top:139px;
 }

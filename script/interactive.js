@@ -30,7 +30,7 @@ $(document).ready(function() {
 		var itemNum = $(this).data('item');
 		$('#arrow'+itemNum).css({
 			'background-position':'-20px',
-			'margin-left':'-5px',
+			'margin-left':'15px',
 			'margin-top':'0px'});
 		
 		var portItem = "#item"+itemNum;
@@ -42,7 +42,7 @@ $(document).ready(function() {
 				$(itemShowing).css('display','none');
 				$('#arrow'+lastItemNum).css({
 				'background-position':'0px',
-				'margin-left':'0px',
+				'margin-left':'20px',
 				'margin-top':'0px'});
 			}
 		}
@@ -50,7 +50,7 @@ $(document).ready(function() {
 		{	
 			$('#arrow'+itemNum).css({
 				'background-position':'0px',
-				'margin-left':'0px',
+				'margin-left':'20px',
 				'margin-top':'0px'});
 			$portSelector.css('display','none');
 		}
