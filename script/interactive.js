@@ -2,12 +2,33 @@
 
 $(document).ready(function() {
 	var $showNav = $('.toggle-nav');
+	var debug_mode = false;
 	
 	$showNav.click(function(event) {
     	event.preventDefault();
     	$('nav').toggleClass('active');
 	});
 	
+	/*
+	*** test for touch screen
+	*/
+	
+	var isTouch;
+	if(('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+    	isTouch = true;
+    }
+	else
+	{
+		isTouch = false;
+	}
+	
+	/*
+	*** add information to #holder in Debug Mode
+	*/
+	
+	if(debug_mode){
+		$('#holder').append('is touch: ' + isTouch);
+	}
 	/*
 	*** handle refreshing Flash Movies
 	*/
@@ -100,18 +121,20 @@ $(document).ready(function() {
 	
 	
 	setInterval(init,5000);
-	/*
-	*** blur and unblur portfolio menu description text
-	*/
 	
-	$('.toggle').hover(
-  		function() { 
-			$(this).find('span').css({'text-shadow':'0 0 5px rgba(255,255,255,0)','color':'#fff'}); 
-		},
-  		function() {
-			$(this).find('span').css({'text-shadow':'0 0 5px rgba(255,255,255,.5)','color':'transparent'});
-		}
-	);
+	/*
+	*** blur and unblur portfolio menu description text if not touch screen
+	*/
+	if(!isTouch){
+		$('.toggle').hover(
+			function() { 
+				$(this).find('span').css({'text-shadow':'0 0 5px rgba(255,255,255,0)','color':'#fff'}); 
+			},
+			function() {
+				$(this).find('span').css({'text-shadow':'0 0 5px rgba(255,255,255,.5)','color':'transparent'});
+			}
+		);
+	};
 	
 	
 	setTimeout(function(){

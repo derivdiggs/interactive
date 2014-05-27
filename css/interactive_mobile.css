@@ -239,7 +239,7 @@ nav ul li a {
     transition: .7s ease-in-out;
 }
 
-.toggle:hover {
+.no-touch .toggle:hover {
 	color:#FC0;
 	width:91%;
 	background:url(../images/accordionbardrko.svg);
@@ -256,7 +256,7 @@ nav ul li a {
     transition: .7s ease-in-out;
 }
 
-.togholder span {
+.no-touch .togholder span {
 	width:100%;
 	color:#FFF;
 	color: transparent;
@@ -267,7 +267,12 @@ nav ul li a {
 	transition: all .5s ease-in-out;
 }
 
-.togholder:hover {
+.touch .togholderspan {
+	width:100%;
+	color:#FFF;
+}
+
+.no-touch .togholder:hover {
 	color:#FC0;
 }
 
@@ -280,9 +285,10 @@ nav ul li a {
 	overflow: hidden;
 	background:url(../images/arrow.svg);
 	background-repeat:no-repeat;
-	/*
-	background-position:-20px;
-	*/
+}
+
+.no-svg .arrow {
+	background:url(../images/arrow.png);
 }
 
 .portholder {
