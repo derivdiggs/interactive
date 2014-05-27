@@ -4,7 +4,10 @@
 	width:device-width;
 }
 
-body {
+
+
+html, body {
+	font-size:1em;
 	background:black url(../images/home_bk.jpg) center center no-repeat;
 }
 

@@ -218,7 +218,9 @@ nav ul li a {
 	margin-left: auto;
     margin-right: auto;
 }
-
+/*
+*** accordian
+*/
 .toggle {
 	width:90%;
 	height:30px;
@@ -228,21 +230,30 @@ nav ul li a {
     margin-right: auto;
 	margin-bottom:4px;
 	text-align:left;
-	background:url(../images/accordionbardrk.svg);
+	background:url(../images/accordionbar.svg);
 	-webkit-border-radius: 7px;
 	-moz-border-radius: 7px;
 	border-radius: 7px;
-	-webkit-transition: .7s ease-in-out;
-    -moz-transition: .7s ease-in-out;
-    -ms-transition: .7s ease-in-out;
-    -o-transition: .7s ease-in-out;
-    transition: .7s ease-in-out;
+	-webkit-transition:width .7s ease-in-out;
+    -moz-transition:width .7s ease-in-out;
+    -ms-transition:width .7s ease-in-out;
+    -o-transition:width .7s ease-in-out;
+    transition:width .7s ease-in-out;
+}
+
+.no-svg .toggle {
+	background:url(../images/accordionbar.png);
 }
 
 .no-touch .toggle:hover {
 	color:#FC0;
 	width:91%;
-	background:url(../images/accordionbardrko.svg);
+	background:url(../images/accordionbar.svg);
+	background-position:0px 30px;
+}
+
+.no-svg .no-touch .toggle:hover {
+	background:url(../images/accordionbar.png);
 }
 
 .togholder {
@@ -256,9 +267,13 @@ nav ul li a {
     transition: .7s ease-in-out;
 }
 
-.no-touch .togholder span {
+.togholder span {
 	width:100%;
 	color:#FFF;
+	font-size:.9em;
+}
+
+.no-touch .togholder span {
 	color: transparent;
    	text-shadow: 0 0 5px rgba(255,255,255,0.5);
 	-webkit-transition: all .5s ease-in-out;
@@ -268,7 +283,6 @@ nav ul li a {
 }
 
 .touch .togholderspan {
-	width:100%;
 	color:#FFF;
 }
 
