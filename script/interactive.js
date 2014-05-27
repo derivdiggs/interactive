@@ -98,8 +98,21 @@ $(document).ready(function() {
 	
 	init();
 	
+	
 	setInterval(init,5000);
-		
+	/*
+	*** blur and unblur portfolio menu description text
+	*/
+	
+	$('.toggle').hover(
+  		function() { 
+			$(this).find('span').css({'text-shadow':'0 0 5px rgba(255,255,255,0)','color':'#fff'}); 
+		},
+  		function() {
+			$(this).find('span').css({'text-shadow':'0 0 5px rgba(255,255,255,.5)','color':'transparent'});
+		}
+	);
+	
 	
 	setTimeout(function(){
 		$('header h1').css('opacity',1);
