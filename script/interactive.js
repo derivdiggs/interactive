@@ -46,8 +46,8 @@ $(document).ready(function() {
 	*/
 	
 	var itemShowing;
+	var t=0;
 	$('.toggle').click(function(){
-	
 		var itemNum = $(this).data('item');
 		$('#arrow'+itemNum).css({
 			'background-position':'-20px',
@@ -59,7 +59,7 @@ $(document).ready(function() {
 		
 		if($portSelector.css('display')==='none'){
 			$portSelector.css('display','block');
-			if(itemShowing != portItem){
+			if(itemShowing != portItem && t > 0){
 				$(itemShowing).css('display','none');
 				$('#arrow'+lastItemNum).css({
 				'background-position':'0px',
@@ -77,6 +77,7 @@ $(document).ready(function() {
 		}
 		itemShowing = portItem;
 		lastItemNum = itemNum;
+		t++;
 	});
 	
 	/*
