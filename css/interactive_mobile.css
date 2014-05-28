@@ -259,7 +259,8 @@ nav ul li a {
 .togholder {
 	position:absolute;
 	padding-left:40px;
-	width:87%;
+	width:80%;
+	font-size:1.2em;
 	-webkit-transition: .7s ease-in-out;
     -moz-transition: .7s ease-in-out;
     -ms-transition: .7s ease-in-out;
@@ -288,6 +289,10 @@ nav ul li a {
 
 .no-touch .togholder:hover {
 	color:#FC0;
+}
+
+.togholder span::before {
+	content:'';
 }
 
 .arrow {

@@ -79,6 +79,42 @@ nav ul li,
 	display:none;
 }
 
+.togholder {
+	width:87%;
+	font-size:1em;
+}
+/*
+*** content for accordion menu descriptions
+*/
+#item1top .togholder span::before {
+	content:' : Examples of navigation designs.';
+}
+
+#item2top .togholder span::before {
+	content:' : Website and application splash pages.';
+}
+
+#item3top .togholder span::before {
+	content:' : Examples of banners and micro-ads.';
+}
+
+#item4top .togholder span::before {
+	content:' : Play this 2.5D Frogger spin-off.';
+}
+
+#item5top .togholder span::before {
+	content:' : View this interactive sales tool.';
+}
+
+#item6top .togholder span::before {
+	content:' : Presentation sales tool.';
+}
+
+#item7top .togholder span::before {
+	content:' : Interactactive touch screen sales tool.';
+}
+
+
 #holder {
 	top:125px;
 	font-size:1.2em;
