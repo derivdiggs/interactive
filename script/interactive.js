@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
 	var $showNav = $('.toggle-nav');
-	var debug_mode = false;
+	var debug_mode = true;
 	
 	$showNav.click(function(event) {
     	event.preventDefault();
@@ -22,13 +22,35 @@ $(document).ready(function() {
 		isTouch = false;
 	}
 	
+	var hasFlash = false;
+	try {
+	  var fo = new ActiveXObject('ShockwaveFlash.ShockwaveFlash');
+	  if(fo) hasFlash = true;
+	}catch(e){
+	if(navigator.mimeTypes ["application/x-shockwave-flash"] != undefined) 
+		hasFlash = true;
+	}
 	/*
 	*** add information to #holder in Debug Mode
 	*/
 	
 	if(debug_mode){
 		$('#holder').append('is touch: ' + isTouch);
+		$('#holder').append('<br/>has flash: ' + hasFlash);
 	}
+	/*
+	*** show flash portfolio if browser is flash enabled otherwise alternate content
+	*/
+	if(hasFlash) {
+		$('.portfolioholder').css('display','inline');
+	}
+	else
+	{
+		$('.noflash-portfolioholder').css('display','inline');
+	}
+	
+	
+	
 	/*
 	*** handle refreshing Flash Movies
 	*/
@@ -46,7 +68,6 @@ $(document).ready(function() {
 	*/
 	
 	var itemShowing;
-	var t=0;
 	$('.toggle').click(function(){
 		var itemNum = $(this).data('item');
 		$('#arrow'+itemNum).css({
@@ -59,7 +80,7 @@ $(document).ready(function() {
 		
 		if($portSelector.css('display')==='none'){
 			$portSelector.css('display','block');
-			if(itemShowing != portItem && t > 0){
+			if(itemShowing != portItem && typeof itemShowing != 'undefined'){
 				$(itemShowing).css('display','none');
 				$('#arrow'+lastItemNum).css({
 				'background-position':'0px',
@@ -77,7 +98,6 @@ $(document).ready(function() {
 		}
 		itemShowing = portItem;
 		lastItemNum = itemNum;
-		t++;
 	});
 	
 	/*
