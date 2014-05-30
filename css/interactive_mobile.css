@@ -422,20 +422,44 @@ a:hover {
   z-index: 1;
   background-image: url('empty.gif');
 }
+
 /*
-*** screenshots
+*** resume
 */
 
+h3 {
+	font-size:1;
+	font-style:italic;
+}
 
-
-.aden_ss {
-	width:100%;
-	max-width:695px;
-	height:313px;
+.h-resume {
+	text-align:left;
+	width:90%;
 	left:0;
 	right:0;
 	margin-left: auto;
     margin-right: auto;
-	background:url(../images/screenshots/aden.jpg);
 }
+
+.p-name {
+	font-size:1.2em;
+	border-top-style:solid;
+	border-top:thin;
+	border-top-color:#999;
+}
+
+.p-street-address,
+.p-locality,
+.p-region,
+.p-country-name,
+.p-tel {
+	margin-left:10px;
+	font-size:.8em;
+}
+
+#job_date {
+	position:absolute;
+	left:400px;
+}
+
 
