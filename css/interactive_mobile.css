@@ -428,8 +428,9 @@ a:hover {
 */
 
 h3 {
-	font-size:1;
+	font-size:.9em;
 	font-style:italic;
+	line-height:-1;
 }
 
 .h-resume {
@@ -441,11 +442,19 @@ h3 {
     margin-right: auto;
 }
 
+.p-experience {
+	border-top:thin;
+	border-top-style:solid;
+	border-top-color:#fff;
+}
+
+.p-experience:first-child {
+	border:none;
+	background:yellow;
+}
+
 .p-name {
 	font-size:1.2em;
-	border-top-style:solid;
-	border-top:thin;
-	border-top-color:#999;
 }
 
 .p-street-address,
@@ -457,9 +466,20 @@ h3 {
 	font-size:.8em;
 }
 
-#job_date {
-	position:absolute;
-	left:400px;
+.dt-start,
+.dt-end,
+.date-to {
+	font-size:.8em;
 }
+
+.date-to {
+	margin:10px;
+}
+
+.p-job-title {
+	font-size:1.1em;
+	text-align:center;
+}
+
 
 
