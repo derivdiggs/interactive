@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
 	var $showNav = $('.toggle-nav');
-	var debug_mode = true;
+	var debug_mode = false;
 	
 	$showNav.click(function(event) {
     	event.preventDefault();
